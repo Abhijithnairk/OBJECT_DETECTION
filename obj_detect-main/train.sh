@@ -1,0 +1,1 @@
+ yolo train data=/home/abhijith/AI_ROTECH/OBJECT_DETECTION/obj_detect-main/datasets/PROJECT_WATCH.v1i.yolov8/data.yaml epochs=100 imgsz=640

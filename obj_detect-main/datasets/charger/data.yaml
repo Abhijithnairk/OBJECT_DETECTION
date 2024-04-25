@@ -1,0 +1,15 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['charger']
+
+roboflow:
+  workspace: rotech
+  project: samsung-charger
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/rotech/samsung-charger/dataset/1
+
+
